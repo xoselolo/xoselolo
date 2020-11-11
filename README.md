@@ -23,6 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xoselolo&show_icons=true&theme=dark&title_color=f93eab&text_color=ffffff&locale=en" alt="xoselolo" /></p>
 
 
-<p align="center">
- 💻 💻 See some of my **latest projects** below 💻 💻
-</p>
+
+ 💻 💻 <h1 See some of my **latest projects** below /> 💻 💻
+
