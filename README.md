@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **xose.lopez.1997@gmail.com**
 
-- 📚 Actually coursing **Computer Engineering** at La Salle BCN
+- 📚 Actually coursing last year of **Computer Engineering** at La Salle BCN
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
