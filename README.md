@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/xoselopezlopez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/xosé-lópez-lópez-0923681bb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/xoselopezlopez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xoselopezlopez" height="30" width="40" /></a>
 <a href="https://instagram.com/xoselolo38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xoselolo38" height="30" width="40" /></a>
 </p>
 
