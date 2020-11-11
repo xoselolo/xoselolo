@@ -18,4 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xoselolo&show_icons=true&theme=dark&title_color=f231be&text_color=ffffff&locale=en&layout=compact" alt="xoselolo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xose&show_icons=true&theme=dark&title_color=f93eab&text_color=ffffff&locale=en" alt="xoselolo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xoselolo&show_icons=true&theme=dark&title_color=f93eab&text_color=ffffff&locale=en" alt="xoselolo" /></p>
+
