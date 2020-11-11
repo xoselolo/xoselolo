@@ -24,5 +24,5 @@
 
 
 
- 💻 💻 <h1 See some of my **latest projects** below /> 💻 💻
+ 💻 💻 See some of my **latest projects** below 💻 💻
 
