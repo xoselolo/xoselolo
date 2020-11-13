@@ -21,7 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xoselolo&show_icons=true&theme=dark&title_color=f231be&text_color=ffffff&locale=en&layout=compact" alt="xoselolo" /></p>
 
 
-<br>
+<br><br><br>
 <h2 align="center">💻 💻 See some of my latest projects below 💻 💻</h1>
  
 
