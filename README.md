@@ -22,6 +22,6 @@
 
 
 
-
- 💻 💻 See some of my **latest projects** below 💻 💻
+<h2 align="center">💻 💻 See some of my latest projects below 💻 💻</h1>
+ 
 
