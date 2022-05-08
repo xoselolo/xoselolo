@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Xosé López</h1>
-<h2 align="center">I'm a future software engineer, passionate for materializing ideas.</h2>
+<h2 align="center">I'm a software engineer and entrepreneur, passionate for materializing ideas.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoselolo&label=Profile%20views&color=d123cc&style=flat" alt="xoselolo" /> </p>
 
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning **Flutter, Dart and Rust.**
+- 🌱 I’m currently learning about **Blockchain.**
 
 - 📫 How to reach me **xose.lopez.1997@gmail.com**
 
-- 📚 Actually coursing last year of **Computer Engineering** at La Salle BCN
+- 📚 **Computer Engineering** at La Salle BCN
 
 
 <h3 align="left">Connect with me:</h3>
