@@ -5,11 +5,11 @@
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning about **Blockchain.**
+- 🌱 I’m currently learning about **CI/CD, DevOps and Software Development**
 
 - 📫 How to reach me **xose.lopez.1997@gmail.com**
 
-- 📚 **Computer Engineer**
+- 📚 **Software Engineer**
 
 
 <h3 align="left">Connect with me:</h3>
